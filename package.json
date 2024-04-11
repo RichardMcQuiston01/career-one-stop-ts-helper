@@ -1,0 +1,32 @@
+{
+  "name": "career-one-stop-ts-helper",
+  "version": "1.0.0",
+  "description": "API Helper for CareerOneStop REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardMcQuiston01/career-one-stop-ts-helper.git"
+  },
+  "keywords": [
+    "careeronestop",
+    "api",
+    "rest",
+    "typescript",
+    "ts"
+  ],
+  "author": "Richard McQuiston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardMcQuiston01/career-one-stop-ts-helper/issues"
+  },
+  "homepage": "https://github.com/RichardMcQuiston01/career-one-stop-ts-helper#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
